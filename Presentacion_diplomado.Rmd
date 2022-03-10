@@ -1,0 +1,146 @@
+---
+title: "Diplomado en Ciencia de Datos con R y Rstudio"
+author: "Délany R, Julián P, Andrés G."
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: ioslides_presentation
+logo: Logo.png
+css: my.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Justificación del Diplomado
+
+La Facultad de Ingenierías de la Universidad Tecnológica de Pereira - UTP ha identificado las crecientes necesidades de diferentes sectores económicos, industriales, académicos y sociales de hacer un buen uso de la información y los datos que tienen a disposición, identificando patrones e insigths que permiten tomar decisiones más acertadas en sus procesos. Dado lo anterior y con la intención de aportar mayores herramientas de análisis a nuestros egresados y profesionales colombianos, se presenta un diplomado riguroso, pensado en brindar herramientas que aporten a la solución de problemas reales, flexible y telepresencial para garantizar la participación de personas en cualquier parte del país y del mundo.
+
+El curso está dirigido a ingenieros electricistas, electrónicos, industriales, mecánicos, agroindustriales, civiles, economistas y en general a todo público y areas del conocimiento. 
+
+## Objetivo
+
+* Brindar herramientas que faciliten la comprensión y desarrollo de un problema de análisis de datos desde la obtención de la información hasta el desarrollo de un producto de datos. 
+
+## Perfil del aspirante
+
+El diplomado está dirigido a profesionales o estudiantes de últimos semestres que estén interesados en adquirir conocimientos en las funciones de análisis de información, planificación, logística, investigación, educación, como también actividades en inteligencia y estrategia de negocios.
+
+Está enfocado a personas familiarizadas con el manejo de datos, que deseen adquirir herramientas para el procesamiento, manipulación y analítica de datos. Desarrollar modelos de predicción e interpretación de comportamientos de variables que permitan tomar decisiones estratégicas soportadas en información. Apropiar instrumentos para la correcta comunicación de la información a los diferentes grupos de valor a través de informes estáticos o dashboards.
+
+Se recomienda tener competencias básicas de estadística y programación.
+
+## 1. Introducción al curso
+
+* Introducción general al diplomado 
+* ¿Por qué es importante la **Ciencia de Datos**?
+* Conceptos fundamentales para el análisis de datos: concepto de variable, tipos de variable, tipos de datos en R.
+* Conceptos básicos de estadística descriptiva: Introducción a médidas de tendencia central, probabilidad, distribuciones. 
+* Herramientas básicas para la ciencia de datos: Github y Git con R, introducción a RMarkdown. 
+
+
+## 2. Fundamentos de programación del lenguaje R
+
+* Introducción al lenguaje R
+* Instalación y carga de librerías
+* Declaración de variables
+* Manejo de vectores, matrices, data frames (conjuntos de datos) y listas
+* Operaciones básicas entre objetos
+* Funciones condicionales
+* Programación de ciclos (Estructuras de control)
+* Creación de funciones
+* Fundamentos de visualización de datos
+
+## 3. Adquisición, manipulación y limpieza de datos
+
+* ¿Qué es una base de datos?
+* Introducción al tidyverse
+* Cargua de datos en R desde diferentes fuentes
+* Funciones para la limpieza de datos
+* Funciones para la agregación y resumen de datos
+* Manipulación de la estructura de la tabla
+* Conceptos de teoría de conjuntos para el uso de funciones de unión (join) de datos * Buenas prácticas en el manejo de variables 
+
+## 4. Estadística para el análisis exploratorio de datos (EDA) - Visualización de datos
+
+* Cálculo de estadísticas de resumen
+* Correlación de datos
+* Visualización del comportamiento de los datos
+* Personalización de gráficos
+* Transformación de variables como preproceso para el modelado
+
+## 5. Introducción al procesamiento de lenguaje natural - NLP 
+
+* ¿Qué es el procesamiento de lenguaje natural?
+* Herramientas para un análisis de procesamiento de lenguaje natural 
+* Procesamiento de Lenguaje Natural con Quanteda(Quantitative Analysis of Textual Data)
+* Desarrollo de un análisis del discurso
+
+## 6. Introducción a la creación e interpretación de mapas
+
+* Importancia de los mapas como herramienta para la visualización de la información
+* Introducción a ggplot2 y leaflet para la elaboración de mapas 
+* ¿Qué tipos de archivos se usan para la elaboración de mapas?
+* Ejemplos prácticos
+
+
+## 7. Fundamentos de Machine Learning
+
+* Introducción a la Estadística Inferencial
+* Introducción al Machine Learning
+* Ejecución y estudios de caso usando modelos supervisados (Modelos de regresión y clasificación) y no supervisados (Clustering o agrupamiento de datos)
+* Técnicas de selección del modelo más adecuado
+
+Algunos modelos a revisar: Lineal regression, Logistic regression, Decision tree, Random Forest, K-means, Hierarchical clustering, Naive Bayes, KNN, Reglas de Asociación, entre otros.
+
+## 8. Desarrollo de productos de datos
+
+* Implementación de reportes tipo word, pdf, HTML con Rmarkdown y reportes web alojados en Rpubs
+* Implementación de presentaciones interactivas para la presentación de análisis y resultados. 
+* Desarrollo de aplicaciones web con Shiny 
+* Desarrollo de un app para predicción de texto o análisis de información en sector educación
+
+## 9. Bonus:
+
+* Convesatorio sobre la importancia de la investigación reproducible
+* ¿Cómo aporta **R** a la investigación reproducible?
+
+## Metodología 
+
+El desarrollo del diplomado se realizará en sesiones de trabajo teórico prácticas, haciendo uso del lenguaje de programación R con algunas librerías seleccionadas.
+
+Durante el curso se abordarán los temas de adquisición, preparación y limpieza de datos, exploración descriptiva, la aplicación de modelos de Machine Learning y la comunicación de los resultados a través de herramientas de visualización de la información. Estos temas se desarrollarán con la aplicación de estudios de caso y un proyecto de clase individual o grupal de los participantes.
+
+
+## Generalidades
+
+* Duración: 170 horas
+* Orientado A: Egresados y profesionales de cualquier area del conocimiento
+* Inversión:
+    * Público general:  	$ 1.500.000
+    * Egresados UTP:	$ 1.000.000
+* Modalidad: Telepresencial
+* Mínimo de participantes: 10
+* Fecha de inicio:
+* Organiza: Facultad de Ingenierías UTP
+* Horario Sugerido: 
+
+Se ofrecerán becas del 100% para estudiantes de pregrado de la Facultad de Ingenierías.
+
+## Docentes
+
+* Ph.D(c) Délany Ramírez del Río
+* Ms(c) Julián Piedrahita Monroy
+* Ms(c) Carlos Andrés Gómez
+
+# ¡Muchas gracias por su atención!
+
+
+
+
+
+
+
+
+
+
+
