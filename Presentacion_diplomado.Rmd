@@ -54,7 +54,7 @@ Se recomienda tener competencias básicas de estadística y programación.
 
 * ¿Qué es una base de datos?
 * Introducción al tidyverse
-* Cargua de datos en R desde diferentes fuentes
+* Carga de datos en R desde diferentes fuentes
 * Funciones para la limpieza de datos
 * Funciones para la agregación y resumen de datos
 * Manipulación de la estructura de la tabla
@@ -90,13 +90,13 @@ Se recomienda tener competencias básicas de estadística y programación.
 * Ejecución y estudios de caso usando modelos supervisados (Modelos de regresión y clasificación) y no supervisados (Clustering o agrupamiento de datos)
 * Técnicas de selección del modelo más adecuado
 
-Algunos modelos a revisar: Lineal regression, Logistic regression, Decision tree, Random Forest, K-means, Hierarchical clustering, Naive Bayes, KNN, Reglas de Asociación, entre otros.
+Algunos modelos a revisar: Lineal regression, Logistic regression, Decision tree, K-means, Hierarchical clustering, KNN, entre otros.
 
 ## 8. Desarrollo de productos de datos
 
 * Implementación de reportes tipo word, pdf, HTML con Rmarkdown y reportes web alojados en Rpubs
 * Implementación de presentaciones interactivas para la presentación de análisis y resultados. 
-* Desarrollo de aplicaciones web con Shiny 
+* Desarrollo de aplicaciones web con Shiny y alojamiento en ShinyApps
 * Desarrollo de un app para predicción de texto o análisis de información en sector educación
 
 ## 9. Bonus:
